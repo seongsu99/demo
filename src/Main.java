@@ -13,7 +13,7 @@ public class Main {
         }
 
         for(int i = 0; i < 5; i++){
-            System.out.println("ditto");
+            System.out.println("stay this way!!!!!");
         }
     }
 }
